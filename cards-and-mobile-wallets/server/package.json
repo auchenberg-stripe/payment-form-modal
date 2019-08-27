@@ -4,7 +4,7 @@
   "description": "How to implement Stripe Elements within a modal dialog. ",
   "scripts": {
     "server": "cd server/node && yarn start",
-    "start": "yarn start"
+    "start": "yarn server"
   },
   "author": "stripe-demos",
   "license": "MIT",
